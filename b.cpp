@@ -6,6 +6,7 @@ using namespace std;
 int main()
 {
 	cout<<"This is file B\n"  ;
+	cout<<"Virus\n";
 	
 	return 0;
 }
