@@ -1,6 +1,6 @@
 #include<iostream>
 using namespace std;
-//@author : Chandra
+//@author : Chandraasa
 int main()
 {
     cout<<"Hello Git\n";
